@@ -5,7 +5,7 @@ prs = Presentation("template.pptx")
 
 # Choose the slide layout index you're interested in
 # Slide layouts are indexed starting from 0
-layout_index = 2  # Change this to the index of the layout you're interested in
+layout_index = 0  # Change this to the index of the layout you're interested in
 
 # Get the layout
 slide_layout = prs.slide_layouts[layout_index]
